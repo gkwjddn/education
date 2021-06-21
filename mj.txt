@@ -1,0 +1,4 @@
+import math*
+
+def class(a,b):
+	return a+b
